@@ -1,0 +1,18 @@
+div {
+    font-family: "Lucida Sans Unicode";
+    background-color: #154360;
+    list-style: none;
+    margin: 0 2px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    color: white;
+    text-decoration: none;
+
+}
+h1 {
+    font-family: "Lucida Sans Unicode";
+    text-align: center;
+}
