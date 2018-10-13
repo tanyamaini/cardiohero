@@ -1,0 +1,31 @@
+h1 {
+  font-family: sans-serif;
+}
+h3 {
+  font-family: sans-serif;
+}
+
+body {
+  font-family: sans-serif;
+}
+navigationbar {
+   font-family: "Lucida Sans Unicode";
+   background-color: #154360;
+   list-style: none;
+   margin: 0 2px;
+   padding: 0;
+   display: flex;
+   justify-content: space-around;
+}
+nav ul{
+   list-style: none;
+   margin: 0 2px;
+   padding: 0;
+   display: flex;
+   justify-content: space-around;
+ }
+a {
+   color: white;
+   text-decoration: none;
+
+}
